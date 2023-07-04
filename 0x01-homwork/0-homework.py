@@ -10,4 +10,3 @@ mlt.xlabel("Months")
 mlt.ylabel("Sales amount")
 
 mlt.show()
-That one is for the bar chart

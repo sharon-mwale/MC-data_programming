@@ -6,3 +6,6 @@ if __name__ == "__main__":
 
     print("Number pf arguments:", num_args)
     print("List of arguments:","\nHello", "\nWelcome", "\nTo","\nThe", "\nBest", "\nSchool", args)
+
+
+    
